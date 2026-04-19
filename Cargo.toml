@@ -1,0 +1,6 @@
+[package]
+name = "plato-room-scheduler"
+version = "0.1.0"
+edition = "2021"
+description = "Schedule room training based on temperature, priority, and resource availability"
+license = "MIT"
